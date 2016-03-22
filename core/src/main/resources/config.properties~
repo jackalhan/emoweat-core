@@ -1,0 +1,12 @@
+twitterConsumerKey=*****
+twitterConsumerSecret=*****
+twitterAccessToken=*****
+twitterAccessTokenSecret=*****
+openweathermapAppId=*****
+DB_DIRECT_CONNECTION=true
+DB_IP=*********
+DB_USER=*****
+DB_PASS=*****
+DB_PORT=3306
+DB_NAME=emoweat
+WEATHER_CACHING_MINUTE=240
